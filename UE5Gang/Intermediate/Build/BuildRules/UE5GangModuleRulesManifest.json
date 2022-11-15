@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\b016871j\\Documents\\Unreal Projects\\UE5Gang\\Source\\UE5Gang\\UE5Gang.Build.cs",
-		"C:\\Users\\b016871j\\Documents\\Unreal Projects\\UE5Gang\\Source\\UE5Gang.Target.cs",
-		"C:\\Users\\b016871j\\Documents\\Unreal Projects\\UE5Gang\\Source\\UE5GangEditor.Target.cs"
+		"C:\\Users\\b016871j\\Documents\\GitHub\\UE5SpawnSystem\\UE5Gang\\Source\\UE5Gang\\UE5Gang.Build.cs",
+		"C:\\Users\\b016871j\\Documents\\GitHub\\UE5SpawnSystem\\UE5Gang\\Source\\UE5Gang.Target.cs",
+		"C:\\Users\\b016871j\\Documents\\GitHub\\UE5SpawnSystem\\UE5Gang\\Source\\UE5GangEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
