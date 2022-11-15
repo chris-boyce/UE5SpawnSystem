@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE5Gang.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE5Gang.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE5GangEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UE5Gang">
+      <UniqueIdentifier>{C9EA3B43-B247-362E-8D22-F719CC122F06}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UE5Gang\MyCharacter.cpp">
+      <Filter>Source\UE5Gang</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5Gang\MyCharacter.h">
+      <Filter>Source\UE5Gang</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5Gang\Test.cpp">
+      <Filter>Source\UE5Gang</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5Gang\Test.h">
+      <Filter>Source\UE5Gang</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UE5Gang\UE5Gang.Build.cs">
+      <Filter>Source\UE5Gang</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE5Gang\UE5Gang.cpp">
+      <Filter>Source\UE5Gang</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5Gang\UE5Gang.h">
+      <Filter>Source\UE5Gang</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5Gang\UE5GangGameModeBase.cpp">
+      <Filter>Source\UE5Gang</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5Gang\UE5GangGameModeBase.h">
+      <Filter>Source\UE5Gang</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

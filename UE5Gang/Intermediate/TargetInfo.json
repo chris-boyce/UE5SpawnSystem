@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5Gang",
+			"Path": "C:\\Users\\b016871j\\Documents\\Unreal Projects\\UE5Gang\\Source\\UE5Gang.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5GangEditor",
+			"Path": "C:\\Users\\b016871j\\Documents\\Unreal Projects\\UE5Gang\\Source\\UE5GangEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

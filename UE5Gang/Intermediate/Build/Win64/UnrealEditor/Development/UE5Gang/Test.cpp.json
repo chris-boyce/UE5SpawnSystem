@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\b016871j\\documents\\unreal projects\\ue5gang\\source\\ue5gang\\test.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\b016871j\\documents\\unreal projects\\ue5gang\\intermediate\\build\\win64\\ue5gangeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\b016871j\\documents\\unreal projects\\ue5gang\\intermediate\\build\\win64\\unrealeditor\\development\\ue5gang\\definitions.ue5gang.h",
+            "c:\\users\\b016871j\\documents\\unreal projects\\ue5gang\\source\\ue5gang\\test.h",
+            "c:\\users\\b016871j\\documents\\unreal projects\\ue5gang\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5gang\\test.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\b016871j\\documents\\unreal projects\\ue5gang\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5gang\\mycharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\b016871j\\documents\\unreal projects\\ue5gang\\intermediate\\build\\win64\\ue5gangeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\b016871j\\documents\\unreal projects\\ue5gang\\intermediate\\build\\win64\\unrealeditor\\development\\ue5gang\\definitions.ue5gang.h",
+            "c:\\users\\b016871j\\documents\\unreal projects\\ue5gang\\source\\ue5gang\\mycharacter.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\epic\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\b016871j\\documents\\unreal projects\\ue5gang\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5gang\\mycharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
